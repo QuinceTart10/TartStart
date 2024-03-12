@@ -1,0 +1,31 @@
+/* Define variables */
+:root {
+    --font: monospace;
+    --fgcolor: #cdd6f4;
+    --accent: #a6e3a1;
+    --bgcolor: #1e1e2e;
+}
+
+/* CSS */
+body, html {
+    background-color: var(--bgcolor);
+    font-family: var(--font);
+    color: var(--fgcolor);
+}
+.center-div {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#clock {
+    color: var(--accent);
+    text-decoration: underline;
+    font-size: 96pt;
+    font-weight: bold;
+    margin: 0;
+}
+.bigtext {
+    font-size: xx-large;
+}
