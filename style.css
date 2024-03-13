@@ -53,3 +53,13 @@ body, html {
 #welcome::after {
     content: var(--name);
 }
+@media (max-width: 625px) and (min-width: 470px) {
+    #clock {
+        font-size: 72pt;
+    }
+}
+@media (max-width: 469px) {
+    #clock {
+        font-size: 48pt;
+    }
+}
