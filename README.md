@@ -12,3 +12,14 @@ If you want to set it as your new tab page, you need to use an extension, such a
 ## Configuration
 
 Modify the variables in [style.css](style.css) as described in the file itself.
+
+## Screenshots
+
+![Screenshot of TartStart with default settings](screenshots/default.png)
+**Default settings**
+
+![Screenshot of TartStart with default settings on a phone screen size](screenshots/default-mobile.png)
+**Default settings, mobile**
+
+![Screenshot of TartStart with a custom font, greeting and accent color](screenshots/customized.png)
+**Customized font, greeting and accent color**
