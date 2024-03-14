@@ -4,7 +4,7 @@
     /* Font, set it to a font (obviously)                               */
     /* If your font's name is multiple words, put it in 'single quotes' */
     /* Examples: sans-serif, 'Times New Roman', Courier                 */
-    --font: monospace;
+    --font: 'DejaVu Sans Mono', monospace;
 
 
     /* Name, set it to ", [your name]."                                 */
