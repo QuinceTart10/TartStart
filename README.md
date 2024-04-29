@@ -1,6 +1,6 @@
 # TartStart
 
-Stupidly simple and lightweight start page
+A stupidly simple and lightweight start page
 
 ## Usage
 
